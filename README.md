@@ -1,5 +1,5 @@
 # 2023-Spring-Statistic-Algorithm
-**USTC_AD_Lab**
+**USTC_SA_Lab**
 
 **Teacher:** Jing Zeng
 
